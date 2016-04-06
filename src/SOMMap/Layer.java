@@ -1,3 +1,7 @@
+package SOMMap;
+
+import GrossbergNetwork.Neuron;
+
 public class Layer {
     private Neuron[] neurons;
 

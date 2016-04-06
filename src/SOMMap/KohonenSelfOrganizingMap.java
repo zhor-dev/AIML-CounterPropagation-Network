@@ -1,3 +1,4 @@
+package SOMMap;
 
 public class KohonenSelfOrganizingMap extends Network {
 

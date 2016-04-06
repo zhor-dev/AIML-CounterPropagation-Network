@@ -1,3 +1,4 @@
+package SOMMap;
 
 public class Neuron {
     private double[] input;

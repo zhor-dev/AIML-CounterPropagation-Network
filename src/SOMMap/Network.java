@@ -1,3 +1,4 @@
+package SOMMap;
 import java.io.*;
 
 public class Network {
